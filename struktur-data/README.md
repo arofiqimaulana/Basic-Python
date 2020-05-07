@@ -29,4 +29,9 @@ is two-dimensional size-mutable, potentially heterogeneous tabular data structur
 
 ### Refference
 1. Data Camp (https://www.datacamp.com/community/tutorials/data-structures-python?)
+2. w3schools (https://www.w3schools.com/python/python_datatypes.asp)
+
+
+
+
 
