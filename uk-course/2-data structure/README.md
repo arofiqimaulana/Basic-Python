@@ -24,3 +24,6 @@ x = {"a", "b", "c"}
 6. Array <br/>
 Array sangat mirip dengan list, perbedaan utamanya terletak pada **operasi yang bisa dijalankan** Array memperbolehkan operasi perhitungan matematika sedangkan list tidak. <br/>
 x = array([3, 6, 9, 12])
+
+
+![](images/DataStructure.png)
