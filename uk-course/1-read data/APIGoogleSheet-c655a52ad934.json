@@ -1,12 +1,11 @@
 {
-  "type": "service_account",
-  "project_id": "indigo-octagon-277104",
-  "private_key_id": "c655a52ad9342512e58ccffd498312e2f0015fc0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkuXRiDIO+x5C9\nIvwNCsx4HUongxW6xqbxywRo+6o8PiUJeI6mg3O0rgqrJAt2laRwy7q4wr8P2N2T\nsJNmVuV6lRa0Y+mYGTUtSGhtUXGzBOTC6bGB8t64wlgCtU+DXVak3bRwnfUpS0cD\n3dg1n67XrE39ZfrMYssWUnv7KRvBDFTGn7EWK4qlE/TGTYSlVZITsab08Ova+7uG\nUNXdtp05qBIXnnwvrT3ZjH3sIHXoKI3Xi6t5FxNqyZwOH25DplLRXnG+pMqgeLn0\nrA8eCiyGVcZJJ0aOKpCPkyf5D/bRW1kkp0COajFDktfHZ8evFQwNeUE39A8K43/G\nTfSS81/vAgMBAAECggEAE4Q+PqW2mvfVysr71mcVTb/upXAkYXJK8l1NmEtaYp6G\n+zBzpP/wdBOmLkZsLfB8lg6qq1xg5crvNHdDJ5NxHKJ7GQQOIlgOPbTABqppJb7q\nhGYgLWzYqEcCcCO07YlgDCg7ykIKJjUwj0viuOEYBp6iyOdNx+yGnQ5IeTwSzpRA\n8huhw953J+w+9meJRH5LgK+71azWAlRCLA8x6VP4Lj8wNSlulv1Kuk/hI7IdLDL6\nb80HSc9dSaCQgkgyZ2ChGy/DAfOJOUjTiZCKzq9kNgrqg0Bd9D6TEChzR+9boTXJ\nvDWO1NUqREySdh37EQn/oN1RXPz/eJgO8iWobV1ikQKBgQDPHKHoGiK4YDLCI7cz\ntBmzRy4jKQPfHeH+MoqMwiF/FyJ6L9JnngtOaJ1/KT8Kdda7nBhYFUGs+jFZcdRV\n1ejVXdSHiJb5TmQDr4LS2NkzVeeQsyJfzYLk8nX1FeQJ2tS+Iw5Gan4B0vhqRff8\nOiDa1AVREMbIY86Rwqi677oWkQKBgQDLm27S88BoxuWTUrxlN6X/huFtQRIcrH9L\npm1XXFOsdJ/290nAHvhAnP+yFWCkGs8a4xVT5pyYuTsOsdT3X+iWNjQ3VeD2fP/l\n2SbIkCJ3AzyRIsYgd4XfUXR0Ixrtiw9f1QqEG94EK0TXnFBf5PKs+SG/3XfIOVIr\nK7Xje6JOfwKBgQDEZt6Sf9ZVCcSYnc3pVezZObLi3M4zEt9wcvU4LhAduQ6U2Cyq\n3hDSthpEsBR8Eusi1g+v19iD9G4/59X33/YAAA6+yCSDHndxl0p0L/co21nQuk7q\nkrSB7/s0AyJQxhfghtXOqMX9bNbt0JQtt+HYIh84lLQs65jEWNgxDYxmQQKBgBw7\n8aJPKt9ctXk4f+eJT/ufOKNt4pUXVo+nBIKYywGfKo+UuyVpJgPPwaVwUXZwQUf5\nNXvs/sou5YGkJ2QmaJpr6dHClu+XZeT5t+cYFa9rQ3rc15yo9meBZCS2uYU3Q2qG\noG6xbpglZ+Z+RqcFmKFj6sowa+vYBwz1gsOI4XkBAoGBAJMi1+OTQCUa394vOZBf\nTUn1bUkBAw9hTdb4BPosX9j8Csu+Pk8bY3lEeJApD7dE7PqAqKaKgRB+7utb/fOH\ncdZax5R2CSkaNtBX8ZrEcgvDlMmQFDL52e/D0rgcYcQp4gqheoKnj2T18e3dPBNY\nzsgVrH1jVjCl/bt+YSj07udF\n-----END PRIVATE KEY-----\n",
-  "client_email": "team-data@indigo-octagon-277104.iam.gserviceaccount.com",
-  "client_id": "115397324997036243109",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/team-data%40indigo-octagon-277104.iam.gserviceaccount.com"
+"type": "service_account",
+  "project_id": "",
+  "private_key_id": "",
+  "client_email": "team-data@indigo-octagon-277104.iam.gser",
+  "client_id": ,
+  "auth_uri": ,
+  "token_uri": ,
+  "auth_provider_x509_cert_url":,
+  "client_x509_cert_url": 
 }
