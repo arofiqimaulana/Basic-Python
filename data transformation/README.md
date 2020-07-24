@@ -16,7 +16,7 @@ df.iloc[:,3:5] # select columns 4th until 5th
 ```
 #select rows first until 4th
 df.iloc[1:4,:] 
-dataNSClient[1:4]
+df[1:4]
 ```
 
 #### Filter
@@ -62,7 +62,7 @@ df[df.relid.isin(userid)] # IN userid list
 df[~df.relid.isin(userid)] # NOT IN userid list
 ```
 
-### Apply Function
+#### Apply Function
 ```
 df['userid'].apply(CleaningCity)
 ```
