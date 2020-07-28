@@ -1,7 +1,7 @@
 # Data Transformation
 Berfungsi untuk mengubah suatu format data ke format yang lain sesuai yang diinginkan, seperti group by, filter, join, union dan lainnya.
 
-
+## DataFrame
 #### Select Columns
 ```
 # select one column
@@ -67,4 +67,12 @@ df[~df.relid.isin(userid)] # NOT IN userid list
 df['userid'].apply(CleaningCity)
 ```
 
-
+## String
+```
+s.lower()
+s.upper()
+s.strip()
+s.lstrip()
+s.rstrip()
+s.split('-')
+```
