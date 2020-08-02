@@ -16,9 +16,9 @@ plt.show()
 Other
 ```
 plt.scatter('Assault','Murder',data=df) #Scatterplot
-plt.plot(city, total) #Line Chart
-plt.pie(total, labels=city, autopct='%1.1f%%') #Pie Chart 
-plt.hist(total,bins=30) #Histogram
+plt.plot('city', 'total',data=df) #Line Chart
+plt.pie('total', labels='city', autopct='%1.1f%%',data=df) #Pie Chart 
+plt.hist(df.total,bins=30) #Histogram
 ```
 
 
